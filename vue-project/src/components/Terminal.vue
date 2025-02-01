@@ -97,8 +97,7 @@ export default {
           "Contact Information:",
           "- Email: mertayhandev@gmail.com",
           "- LinkedIn: https://www.linkedin.com/in/mert-ayhan-0bb469233/",
-          "- GitHub: https://github.com/mertayhan",
-          "- Portfolio: https://mertayhan.dev",
+          "- GitHub: https://github.com/mertayhan123",
         ]);
       } else if (cmd === "clear") {
         this.output = [];

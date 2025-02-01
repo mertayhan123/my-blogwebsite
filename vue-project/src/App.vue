@@ -6,6 +6,6 @@ import Terminal from './components/Terminal.vue';
 
 <template>
 
-<Terminal/>
+  <Terminal/>
 </template>
 
